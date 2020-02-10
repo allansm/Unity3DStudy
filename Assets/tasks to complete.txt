@@ -1,0 +1,31 @@
+fix skull attack x
+
+fix camera on die
+
+create lifebar interface
+
+create class baseskill with damage cooldown etc
+
+create combo attack
+
+get foot collision
+
+create camera lock to target
+
+create inputbehavior with movement using rigidbody
+
+skill to recover hp to normal player
+
+put transform to lose health every second
+
+create icons of skills
+
+create mobile input
+
+fix skull orientation on move
+
+create skills for orb
+
+create orb aparence
+
+create effects particle

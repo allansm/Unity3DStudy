@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 8883a43ef91fc1f4fa369e8f16668f2f
+timeCreated: 1558229696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.003
+    100008: Bone.003_end
+    100010: Bone.004
+    100012: Bone.004_end
+    100014: Bone_L
+    100016: Bone_L.001
+    100018: Bone_L.002
+    100020: Bone_L.003
+    100022: Bone_L.003_end
+    100024: Bone_L.004
+    100026: Bone_L.005
+    100028: Bone_L.006
+    100030: Bone_L.007
+    100032: Bone_L.008
+    100034: Bone_L.008_end
+    100036: Bone_L.009
+    100038: Bone_L.009_end
+    100040: Bone_L.010
+    100042: Bone_L.010_end
+    100044: Bone_L.011
+    100046: Bone_L.011_end
+    100048: Bone_L.012
+    100050: Bone_L.012_end
+    100052: Bone_L.013
+    100054: Bone_L.013_end
+    100056: Bone_R
+    100058: Bone_R.001
+    100060: Bone_R.002
+    100062: Bone_R.003
+    100064: Bone_R.003_end
+    100066: Bone_R.004
+    100068: Bone_R.005
+    100070: Bone_R.006
+    100072: Bone_R.007
+    100074: Bone_R.008
+    100076: Bone_R.008_end
+    100078: Bone_R.009
+    100080: Bone_R.009_end
+    100082: Bone_R.010
+    100084: Bone_R.010_end
+    100086: Bone_R.011
+    100088: Bone_R.011_end
+    100090: Bone_R.012
+    100092: Bone_R.012_end
+    100094: Bone_R.013
+    100096: Bone_R.013_end
+    100098: char
+    100100: //RootNode
+    100102: Merged_Original1.001
+    100104: Original1_1
+    100106: Original1_copy3
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.003
+    400008: Bone.003_end
+    400010: Bone.004
+    400012: Bone.004_end
+    400014: Bone_L
+    400016: Bone_L.001
+    400018: Bone_L.002
+    400020: Bone_L.003
+    400022: Bone_L.003_end
+    400024: Bone_L.004
+    400026: Bone_L.005
+    400028: Bone_L.006
+    400030: Bone_L.007
+    400032: Bone_L.008
+    400034: Bone_L.008_end
+    400036: Bone_L.009
+    400038: Bone_L.009_end
+    400040: Bone_L.010
+    400042: Bone_L.010_end
+    400044: Bone_L.011
+    400046: Bone_L.011_end
+    400048: Bone_L.012
+    400050: Bone_L.012_end
+    400052: Bone_L.013
+    400054: Bone_L.013_end
+    400056: Bone_R
+    400058: Bone_R.001
+    400060: Bone_R.002
+    400062: Bone_R.003
+    400064: Bone_R.003_end
+    400066: Bone_R.004
+    400068: Bone_R.005
+    400070: Bone_R.006
+    400072: Bone_R.007
+    400074: Bone_R.008
+    400076: Bone_R.008_end
+    400078: Bone_R.009
+    400080: Bone_R.009_end
+    400082: Bone_R.010
+    400084: Bone_R.010_end
+    400086: Bone_R.011
+    400088: Bone_R.011_end
+    400090: Bone_R.012
+    400092: Bone_R.012_end
+    400094: Bone_R.013
+    400096: Bone_R.013_end
+    400098: char
+    400100: //RootNode
+    400102: Merged_Original1.001
+    400104: Original1_1
+    400106: Original1_copy3
+    4300000: Merged_Original1.001
+    4300002: Original1_1
+    4300004: Original1_copy3
+    7400000: char|ArmatureAction
+    7400002: char|ArmatureAction.001
+    7400004: char|ArmatureAction.002
+    9500000: //RootNode
+    13700000: Merged_Original1.001
+    13700002: Original1_1
+    13700004: Original1_copy3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: char|ArmatureAction
+      takeName: char|ArmatureAction
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: char
+        weight: 1
+      - path: char/Bone
+        weight: 1
+      - path: char/Bone/Bone.001
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004/Bone.004_end
+        weight: 1
+      - path: char/Bone/Bone_L
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: char/Bone/Bone_L.004
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008/Bone_L.008_end
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009/Bone_L.009_end
+        weight: 1
+      - path: char/Bone/Bone_R
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: char/Bone/Bone_R.004
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008/Bone_R.008_end
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009/Bone_R.009_end
+        weight: 1
+      - path: char/Bone_L.010
+        weight: 1
+      - path: char/Bone_L.010/Bone_L.010_end
+        weight: 1
+      - path: char/Bone_L.011
+        weight: 1
+      - path: char/Bone_L.011/Bone_L.011_end
+        weight: 1
+      - path: char/Bone_L.012
+        weight: 1
+      - path: char/Bone_L.012/Bone_L.012_end
+        weight: 1
+      - path: char/Bone_L.013
+        weight: 1
+      - path: char/Bone_L.013/Bone_L.013_end
+        weight: 1
+      - path: char/Bone_R.010
+        weight: 1
+      - path: char/Bone_R.010/Bone_R.010_end
+        weight: 1
+      - path: char/Bone_R.011
+        weight: 1
+      - path: char/Bone_R.011/Bone_R.011_end
+        weight: 1
+      - path: char/Bone_R.012
+        weight: 1
+      - path: char/Bone_R.012/Bone_R.012_end
+        weight: 1
+      - path: char/Bone_R.013
+        weight: 1
+      - path: char/Bone_R.013/Bone_R.013_end
+        weight: 1
+      - path: Merged_Original1.001
+        weight: 1
+      - path: Original1_1
+        weight: 1
+      - path: Original1_copy3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: char|ArmatureAction.001
+      takeName: char|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: char
+        weight: 1
+      - path: char/Bone
+        weight: 1
+      - path: char/Bone/Bone.001
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004/Bone.004_end
+        weight: 1
+      - path: char/Bone/Bone_L
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: char/Bone/Bone_L.004
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008/Bone_L.008_end
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009/Bone_L.009_end
+        weight: 1
+      - path: char/Bone/Bone_R
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: char/Bone/Bone_R.004
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008/Bone_R.008_end
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009/Bone_R.009_end
+        weight: 1
+      - path: char/Bone_L.010
+        weight: 1
+      - path: char/Bone_L.010/Bone_L.010_end
+        weight: 1
+      - path: char/Bone_L.011
+        weight: 1
+      - path: char/Bone_L.011/Bone_L.011_end
+        weight: 1
+      - path: char/Bone_L.012
+        weight: 1
+      - path: char/Bone_L.012/Bone_L.012_end
+        weight: 1
+      - path: char/Bone_L.013
+        weight: 1
+      - path: char/Bone_L.013/Bone_L.013_end
+        weight: 1
+      - path: char/Bone_R.010
+        weight: 1
+      - path: char/Bone_R.010/Bone_R.010_end
+        weight: 1
+      - path: char/Bone_R.011
+        weight: 1
+      - path: char/Bone_R.011/Bone_R.011_end
+        weight: 1
+      - path: char/Bone_R.012
+        weight: 1
+      - path: char/Bone_R.012/Bone_R.012_end
+        weight: 1
+      - path: char/Bone_R.013
+        weight: 1
+      - path: char/Bone_R.013/Bone_R.013_end
+        weight: 1
+      - path: Merged_Original1.001
+        weight: 1
+      - path: Original1_1
+        weight: 1
+      - path: Original1_copy3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: char|ArmatureAction.002
+      takeName: char|ArmatureAction.002
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: char
+        weight: 1
+      - path: char/Bone
+        weight: 1
+      - path: char/Bone/Bone.001
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004
+        weight: 1
+      - path: char/Bone/Bone.001/Bone.002/Bone.004/Bone.004_end
+        weight: 1
+      - path: char/Bone/Bone_L
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: char/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: char/Bone/Bone_L.004
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.007/Bone_L.008/Bone_L.008_end
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009
+        weight: 1
+      - path: char/Bone/Bone_L.004/Bone_L.005/Bone_L.006/Bone_L.009/Bone_L.009_end
+        weight: 1
+      - path: char/Bone/Bone_R
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: char/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: char/Bone/Bone_R.004
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.007/Bone_R.008/Bone_R.008_end
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009
+        weight: 1
+      - path: char/Bone/Bone_R.004/Bone_R.005/Bone_R.006/Bone_R.009/Bone_R.009_end
+        weight: 1
+      - path: char/Bone_L.010
+        weight: 1
+      - path: char/Bone_L.010/Bone_L.010_end
+        weight: 1
+      - path: char/Bone_L.011
+        weight: 1
+      - path: char/Bone_L.011/Bone_L.011_end
+        weight: 1
+      - path: char/Bone_L.012
+        weight: 1
+      - path: char/Bone_L.012/Bone_L.012_end
+        weight: 1
+      - path: char/Bone_L.013
+        weight: 1
+      - path: char/Bone_L.013/Bone_L.013_end
+        weight: 1
+      - path: char/Bone_R.010
+        weight: 1
+      - path: char/Bone_R.010/Bone_R.010_end
+        weight: 1
+      - path: char/Bone_R.011
+        weight: 1
+      - path: char/Bone_R.011/Bone_R.011_end
+        weight: 1
+      - path: char/Bone_R.012
+        weight: 1
+      - path: char/Bone_R.012/Bone_R.012_end
+        weight: 1
+      - path: char/Bone_R.013
+        weight: 1
+      - path: char/Bone_R.013/Bone_R.013_end
+        weight: 1
+      - path: Merged_Original1.001
+        weight: 1
+      - path: Original1_1
+        weight: 1
+      - path: Original1_copy3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

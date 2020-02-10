@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b4db52db247360a43891ab038a79bbf0
+timeCreated: 1560496484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.001_end
+    100006: Bone_L
+    100008: Bone_L.001
+    100010: Bone_L.002
+    100012: Bone_L.003
+    100014: Bone_L.003_end
+    100016: Bone_L.004
+    100018: Bone_L.005
+    100020: Bone_L.006
+    100022: Bone_L.007
+    100024: Bone_L.008
+    100026: Bone_L.008_end
+    100028: Bone_L.009
+    100030: Bone_L.009_end
+    100032: Bone_L.010
+    100034: Bone_L.010_end
+    100036: Bone_L.011
+    100038: Bone_L.011_end
+    100040: Bone_L.012
+    100042: Bone_L.012_end
+    100044: Bone_R
+    100046: Bone_R.001
+    100048: Bone_R.002
+    100050: Bone_R.003
+    100052: Bone_R.003_end
+    100054: Bone_R.004
+    100056: Bone_R.005
+    100058: Bone_R.006
+    100060: Bone_R.007
+    100062: Bone_R.008
+    100064: Bone_R.008_end
+    100066: Bone_R.009
+    100068: Bone_R.009_end
+    100070: Bone_R.010
+    100072: Bone_R.010_end
+    100074: Bone_R.011
+    100076: Bone_R.011_end
+    100078: Bone_R.012
+    100080: Bone_R.012_end
+    100082: Skull
+    100084: skull 1%
+    100086: //RootNode
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.001_end
+    400006: Bone_L
+    400008: Bone_L.001
+    400010: Bone_L.002
+    400012: Bone_L.003
+    400014: Bone_L.003_end
+    400016: Bone_L.004
+    400018: Bone_L.005
+    400020: Bone_L.006
+    400022: Bone_L.007
+    400024: Bone_L.008
+    400026: Bone_L.008_end
+    400028: Bone_L.009
+    400030: Bone_L.009_end
+    400032: Bone_L.010
+    400034: Bone_L.010_end
+    400036: Bone_L.011
+    400038: Bone_L.011_end
+    400040: Bone_L.012
+    400042: Bone_L.012_end
+    400044: Bone_R
+    400046: Bone_R.001
+    400048: Bone_R.002
+    400050: Bone_R.003
+    400052: Bone_R.003_end
+    400054: Bone_R.004
+    400056: Bone_R.005
+    400058: Bone_R.006
+    400060: Bone_R.007
+    400062: Bone_R.008
+    400064: Bone_R.008_end
+    400066: Bone_R.009
+    400068: Bone_R.009_end
+    400070: Bone_R.010
+    400072: Bone_R.010_end
+    400074: Bone_R.011
+    400076: Bone_R.011_end
+    400078: Bone_R.012
+    400080: Bone_R.012_end
+    400082: Skull
+    400084: skull 1%
+    400086: //RootNode
+    4300000: skull 1%
+    7400000: Skull|attack
+    7400002: Skull|block
+    7400004: Skull|block 2
+    7400006: Skull|block hit
+    7400008: Skull|block walk
+    7400010: Skull|HIT
+    7400012: Skull|IDLE
+    7400014: Skull|RUN
+    7400016: Skull|RUN 2
+    7400018: Skull|STAND
+    9500000: //RootNode
+    13700000: skull 1%
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
