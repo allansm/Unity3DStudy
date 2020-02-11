@@ -7,6 +7,7 @@ Personal project to learn about game developement
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/9.PNG)
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/10.PNG)
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/11.PNG)
+![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/12.PNG)
 ## Character
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/1.PNG)
 ## Enemy 1
