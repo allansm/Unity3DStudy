@@ -1,6 +1,6 @@
 # Unity3DStudy
 Personal project to learn about game developement
-##Screenshots
+## Screenshots
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/6.PNG)
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/7.PNG)
 ![image](https://raw.githubusercontent.com/allansm/Unity3DStudy/master/CAPTURE/8.PNG)
