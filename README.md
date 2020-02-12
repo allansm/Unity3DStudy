@@ -3,10 +3,15 @@ Personal project to learn about game developement
 
 ## youtube
 https://youtu.be/X49JtIsOoxs
+
 https://youtu.be/B_Tmp7W2T4I
+
 https://youtu.be/ke5fGUs9S0o
+
 https://youtu.be/ZPscJurxe7A
+
 https://youtu.be/SIGQyoGAG-8
+
 https://youtu.be/7vjCYkxaMbY
 
 ## Screenshots
